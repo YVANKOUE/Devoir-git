@@ -1,5 +1,3 @@
 <?php
-
-  echo "Voici encore encore mon super super super super devoir";
-
+echo "Bonsoir bonsoir mon amis yvan voici mon devoir ";
 ?>
