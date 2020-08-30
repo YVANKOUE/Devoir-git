@@ -1,3 +1,3 @@
 <?php
-echo "Bonsoir mon amis yvan voici mon devoir ";
+echo "Bonsoir yvan voici mon devoir ";
 ?>
