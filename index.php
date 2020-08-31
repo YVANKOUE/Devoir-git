@@ -1,4 +1,4 @@
 
 <?php
-echo "Bonsoir bonsoir bonsoir mon amis yvan ";
+echo "Bonsoir mon amis yvan ";
 ?>
