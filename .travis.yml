@@ -8,4 +8,4 @@ script:
 deploy:
   provider: heroku
   api_key: 735a1268-4f77-4bbd-8894-fea542f2478e
-  app: devoir-heroku 
+  app: heroku-primo 
